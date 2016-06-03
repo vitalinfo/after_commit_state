@@ -1,6 +1,6 @@
 # after_commit_state
 
-Use this module to check model state in after_commit callback, is it was created or updated.
+Use this module to check model state in after_commit callback, if it was created or updated.
 
 ## Usage
 
