@@ -8,6 +8,6 @@ group :development do
 end
 
 group :development, :test do
-  gem "rspec", "~> 3.4.0"
+  gem "rspec"
   gem "sqlite3"
 end
